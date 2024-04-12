@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @SebbyT381
+- My name is Sebastian Turner.
 - I'm from Ontario, Canada.
 - I'm currently attending college for computer programming.
 
